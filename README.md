@@ -49,7 +49,7 @@ Before proceeding, ensure you have the following installed:
 ### **1️⃣ Clone the Repository**  
 
 ```bash
-git clone https://github.com/fardeskhan/Deployment-of-super-Mario-on-Kubernetes-using-terraform.git
+git clone https://github.com/fardeskhan/Deployment-of-SuperMario-on-Kubernetes-using-terraform.git
 cd Deployment-of-super-Mario-on-Kubernetes-using-terraform/EKS-TF
 ```
 
