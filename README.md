@@ -50,7 +50,7 @@ Before proceeding, ensure you have the following installed:
 
 ```bash
 git clone https://github.com/fardeskhan/Deployment-of-SuperMario-on-Kubernetes-using-terraform.git
-cd Deployment-of-super-Mario-on-Kubernetes-using-terraform/EKS-TF
+cd Deployment-of-SuperMario-on-Kubernetes-using-terraform/EKS-TF
 ```
 
 ### **2️⃣ Initialize & Apply Terraform**  
